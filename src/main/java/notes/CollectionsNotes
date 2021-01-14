@@ -1,0 +1,19 @@
+// Arrays are limited by size
+// Arrays can hold only homogenous data types
+// That's why Collections been created
+// Collections can store different data types
+
+Array                           Collection
+-----                           ----------
+* Fixed in size                 * Collections are grow-able in Nature
+* Can hold only homogenous      * Can hold homogenous or heterogeneous
+  type                          * Recommended to use to Stop memory wastage as
+* Memory point of view,           it grows on demand
+  we should not use 'Arrays'    * In built
+* array itself is data          * Collections can hold only objects
+  structure, no in built
+* arrays can hold objects and
+  primitive types
+
+Collection is interface
+Collections is class with methods

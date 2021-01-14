@@ -1,0 +1,22 @@
+// Reason of Collection framework is group Interfaces and classes
+* Interfaces
+* Implementations of classes
+* Algorithms
+
+                   Collection - most common functions
+
+  List (interface)     Set (interface)          Queue (interface)
+ (insertion order     (insertion order          (first in, first out
+    preserved,         not preserved,               order)
+    duplicates)        no duplicates)
+
+* ArrayList          * HashSet => LHashSet      * PriorityQueue
+* LinkedList         * Sorted Set (i) =>        * BlockingQueue =>
+* Vector => Stack      NavigableSet (i) =>        LBlockingQueue,
+                       TreeSet                    PriorityBlockingQueue
+
+            Map (own interface, not in Collection, but part of it)
+
+ HashMap       WeakHashMap      IdentityHashMap       HashTable     SortedMap
+
+ * LHashMap                                         * Properties    * NavigableMap
