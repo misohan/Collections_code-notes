@@ -1,0 +1,3 @@
+* Hash function generates address in table
+* Object class hashCode() = hash function
+* It is always important to

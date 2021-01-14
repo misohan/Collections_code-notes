@@ -1,0 +1,5 @@
+* Part of collection framework, but not of Collections
+* Interface which represents a mapping between a key and value
+* Duplicate keys are not allowed, values can be duplicated
+* We can have two different keys with same value
+* Map has entry-objects
