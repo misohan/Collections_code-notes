@@ -1,0 +1,3 @@
+    HashMap             LinkedHashMap
+* insertion order       * insertion order preserved
+  is not preserved
